@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.myapplication.MainActivity"
+    android:background="@drawable/white"
+    android:gravity="center_horizontal">
+
+    <Button
+        android:id="@+id/btTop"
+        android:layout_width="113dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="450dp"
+        android:gravity="center"
+        android:text="@string/top"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        style="@style/game_color" />
+
+    <Button
+        android:id="@+id/btSet"
+        android:layout_width="113dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="400dp"
+        android:gravity="center"
+        android:text="@string/set"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        style="@style/game_color" />
+
+    <Button
+        android:id="@+id/btStartGame"
+        android:layout_width="113dp"
+        android:layout_height="44dp"
+        android:layout_marginTop="350dp"
+        android:gravity="center"
+        android:text="@string/start_game"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        style="@style/game_color" />
+
+</RelativeLayout>

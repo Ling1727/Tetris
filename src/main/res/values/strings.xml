@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">game</string>
+    <string name="start_game">开始游戏</string>
+    <string name="top">排行榜</string>
+    <string name="set">设置</string>
+    <string name="sound">声音</string>
+    <string name="plane_type">机型</string>
+    <string name="plane_type1">机型一</string>
+    <string name="open">开</string>
+    <string name="close">关</string>
+    <string name="OK">确定</string>
+    <string name="cancel">取消</string>
+    <string name="stop">暂停</string>
+    <string name="left">左</string>
+    <string name="right">右</string>
+    <string name="change">旋转</string>
+    <string name="down">下</string>
+    <string name="again">重新开始</string>
+    <string name="continue_game">继续游戏</string>
+    <string name="menu">返回主界面</string>
+    <string name="score">得分：</string>
+    <string name="zero">0</string>
+</resources>
